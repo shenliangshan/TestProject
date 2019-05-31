@@ -1,2 +1,2 @@
 first line of test.txt
-second line
+second line.
