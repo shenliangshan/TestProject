@@ -1,2 +1,0 @@
-first line of master.txt
-second line
